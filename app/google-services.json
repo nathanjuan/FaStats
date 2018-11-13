@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "656198432094",
+    "firebase_url": "https://fastats-beb15.firebaseio.com",
+    "project_id": "fastats-beb15",
+    "storage_bucket": "fastats-beb15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656198432094:android:6edd8160c65c80ce",
+        "android_client_info": {
+          "package_name": "com.example.android.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656198432094-k5dqktlhptoh019bam1msm2ia6tig3t9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.my_app",
+            "certificate_hash": "3360b649f0739f63156d788fb4e86aba374c862d"
+          }
+        },
+        {
+          "client_id": "656198432094-qd0n29v8teh1asfm1ebkki6t9tm5fp8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxtw9ztbIHW-jRBrb2u3Hhw-n2B587H3Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656198432094-qd0n29v8teh1asfm1ebkki6t9tm5fp8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

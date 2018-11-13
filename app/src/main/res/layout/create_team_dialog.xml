@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="5dp">
+
+    <TextView
+        android:id="@+id/createTeamTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:gravity="center"
+        android:text="@string/create_new_team"
+        android:textColor="@color/colorPrimary"
+        android:textSize="30sp" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editTextName"
+        android:ems="10"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:hint="@string/team_name"
+        android:textColor="@color/colorPrimary"
+        android:inputType="text"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editTextSport"
+        android:ems="10"
+        android:layout_marginTop="10dp"
+        android:hint="@string/sport"
+        android:textColor="@color/colorPrimary"
+        android:gravity="center"
+        android:inputType="text"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/createTeam"
+        android:text="@string/create_team"
+        android:background="@drawable/roundedbutton"
+        android:textColor="@color/colorPrimary"
+        android:layout_marginTop="10dp"
+        />
+</LinearLayout>

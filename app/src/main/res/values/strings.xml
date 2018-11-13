@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FaStats</string>
+
+    <string name="create_team">Create</string>
+
+    <string name="join_team">Join</string>
+    <string name="create_new_team">Create New Team</string>
+    <string name="team_name">Team Name</string>
+    <string name="sport">Sport</string>
+    <string name="no_teams">No teams yet. Create or join one!</string>
+    <string name="create_new_match">Create New Match</string>
+    <string name="progress">In Progress</string>
+
+</resources>
